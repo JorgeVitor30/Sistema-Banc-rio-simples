@@ -1,5 +1,5 @@
 <h2> --> Conhecimentos Usados: 
- <h3> Abstração, Herança S. e M. , Encapsulamento e Polimorfismo.
+ <h3> Abstração, Herança , Encapsulamento e Polimorfismo.
 
 <h2> --> Objetivo:
 
